@@ -1,0 +1,6 @@
+
+.icon  {background-position: center center; background-repeat: no-repeat; background-size:contain; width: 1em; height: 1em; display: inline-block}
+
+.ico-close  {background-image: url("@/static/icons/svg/ico-plus.svg"); transform: rotate(45deg)}
+.ico-check  {background-image: url("@/static/icons/svg/ico-check.svg") }
+.ico-warn  {background-image: url("@/static/icons/svg/ico-warn.svg") }
